@@ -1,1 +1,1 @@
-DROM wordpress:5.8.0-php8.0-apache
+FROM wordpress:5.8.0-php8.0-apache
