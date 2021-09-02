@@ -1,0 +1,1 @@
+FROM openjdk:18-jdk-alpine3.13
