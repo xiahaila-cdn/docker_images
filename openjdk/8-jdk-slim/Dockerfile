@@ -1,0 +1,1 @@
+FROM docker.io/openjdk:8-jdk-slim
